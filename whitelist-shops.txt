@@ -1,0 +1,3 @@
+@@||adclick.g.doublecklick.net^$important
+@@||*.amazon.nl^$important
+@@||*.amazon.com^$important
