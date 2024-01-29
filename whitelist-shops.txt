@@ -1,5 +1,6 @@
 # Google Ads
-@@||adclick.g.doublecklick.net^$important
+@@||adclick.g.doubleclick.net^$important
+@@||ad.doubleclick.net^$important
 # Amazon Prime Video and Amazon CDN
 @@||eu.api.amazonvideo.com^$important
 @@||device-metrics-us.amazon.com^$important
