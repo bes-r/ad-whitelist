@@ -1,8 +1,8 @@
 # Dutch Technews
-@@||tweakers.net^$document
-@@||tweakers.net^$elemhide
-@@||aa.tweakers.nl^
-@@||ab.tweakers.nl^
+# @@||tweakers.net^$document
+# @@||tweakers.net^$elemhide
+# @@||aa.tweakers.nl^
+# @@||ab.tweakers.nl^
 # Google Ads
 @@||adclick.g.doubleclick.net^$important
 @@||ad.doubleclick.net^$important
